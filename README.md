@@ -31,12 +31,7 @@ GitHub에서 코딩과 창작의 즐거움을 함께 나누고 싶어요!
 ##우주 침략자 게임 (Space Invaders Game) 🚀
 이 프로젝트는 간단한 2D 우주 침략자 게임입니다. Python의 pygame 라이브러리를 활용하여 구현되었으며, 플레이어는 우주선을 조종해 외계인을 물리치고 점수를 획득하는 것을 목표로 합니다.
 
-게임 기능
-
-## Code Block   
-### Code inline
-- `console.log('Hello EASYME.md!');`   
-   
+## Code Block      
 ### Code block
 ```js
 function makeDeveloper(name, language) {
@@ -52,7 +47,10 @@ makeDeveloper('ONE:A', 'JavaScript');
 
 <br>  
 
-플레이어 컨트롤
+게임기능
+
+🕹️플레이어 컨트롤
+
 화살표 키로 우주선을 좌우로 이동.
 스페이스바를 눌러 빔 발사.
 
