@@ -246,20 +246,12 @@ if __name__=='__main__':
 
 ## ⚙️ 기술 스택
 언어: Python 3.x
+
 라이브러리: Pygame
 
-## 프로젝트 주요 코드
-Drawable 클래스: 게임 내 모든 객체(우주선, 외계인, 폭탄 등)의 기본 클래스입니다.
-Ship, Beam, Alien, Bomb 클래스를 상속받아 각 객체의 동작과 그래픽을 처리합니다.
-main() 함수에서 게임 루프를 실행하며, 이벤트 처리와 객체 이동 및 충돌 처리를 구현합니다.
-
-개발 동기
+## ✨ 개발 동기
 Python 학습과 pygame 라이브러리 활용 능력을 높이기 위해 제작했습니다. 
 
 간단하지만 게임 설계와 충돌 처리, 이벤트 제어 등의 핵심 개념을 익히는 데 좋은 경험이 되었습니다.
 
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHyeIn&show_icons=true&theme=radical)
 
