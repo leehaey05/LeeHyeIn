@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=3776AB" />  <img src="https://img.shields.io/badge/illustrator-20232a.svg?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
 
 ## 🙋‍♀️ email & instagram & phone number 
-<a href="https://www.instagram.com/hyein_0217/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=E4405F"/></a>
+<a href="https://www.instagram.com/hyein_0217/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
  
 2. 👆 
