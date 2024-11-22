@@ -25,6 +25,8 @@ GitHub에서 창작의 즐거움을 함께 나누고 싶어요!
 </details>
 <a href="https://www.instagram.com/hyein_0217/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
+## ✅ GitHub Readme Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHyeIn&show_icons=true&theme=radical)
 
 # 🛠️ project 🛠️   
 
