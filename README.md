@@ -1,24 +1,16 @@
-## 🙌 Welcome to 혜인 git hube
-![easyme](/assets/readme/cartoon.png)
+## 🙌 Hello 🙌
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=welcome%20to%20혜인%20git%20hube&fontSize=50" />
 
-
-
-##  Tech Stack
+## 😀 Tech Stack 😀
 <img src="https://img.shields.io/badge/Adobe-20232a.svg?style=for-the-badge&logo=Adobe&logoColor=FF0000" />  <img src="https://img.shields.io/badge/photoshop-20232a.svg?style=for-the-badge&logo=adobephotoshop&logoColor=9999FF" />  <img src="https://img.shields.io/badge/premierepro-20232a.svg?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />  <img src="https://img.shields.io/badge/cplusplus-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C" />  
 <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=3776AB" />  <img src="https://img.shields.io/badge/illustrator-20232a.svg?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
 
+## 🙋‍♀️ email & instagram & phone number 
+<a href="(https://www.instagram.com/hyein_0217/)"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=instagram&logoColor=E4405F"/></a> <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+ 
+2. 👆 
 
-## 🙋‍♀️ 좀 더 구체적으로 가르쳐주세요!   
-1. 왼쪽 공간에서 블로그에 글을 쓰는 것처럼 README를 작성해주세요!   
-2. 👆 위에 툴바창에 보이는 다양한 스타일을 적용해보세요!   
-3. 다 작성하셨나요? 예쁘게 잘 나왔는지 오른쪽 미리보기 화면에서 확인해보세요.   
-4. 오른쪽에 작성한 글 전체를 복사하세요!   
-(저장을 원할 경우 `Ctrl + S` / `Command + S` 또는 툴바창 제일 오른쪽에 `공유하기 아이콘`을 클릭해주세요.)   
-5. 이제 여러분의 **README.md** 에 붙여넣으세요!   
-(저장 또는 공유를 할 경우 링크를 다른 사람에게 전달할 수 있어요! 😀)  
-
-## 🛠 기능 엿보기   
+## 🛠 project 🛠
 
 1. [❓ EASYME.md가 뭐예요?  ](#-easymemd가-뭐예요)
 2. [🙋‍♀️ 좀 더 구체적으로 가르쳐주세요!](#-좀-더-구체적으로-가르쳐주세요)
