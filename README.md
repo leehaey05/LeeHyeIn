@@ -7,8 +7,10 @@
 
 ## 🌈 instagram & phone number 
 <a href="https://www.instagram.com/hyein_0217/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-<details><summary>
-**010-3141-2376** 
+<details><summary>Phone Number
+</summary>
+
+*010-3141-2376*
 
 ## 🛠 project 🛠
 
