@@ -3,6 +3,10 @@
 
 ##  Tech Stack
 <img src="https://img.shields.io/badge/Adobe-20232a.svg?style=for-the-badge&logo=Adobe&logoColor=FF0000" />
+<img src="https://img.shields.io/badge/adobephotoshop-20232a.svg?style=for-the-badge&logo=adobephotoshop&logoColor=9999FF" />
+<img src="https://img.shields.io/badge/adobepremierepro-20232a.svg?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />
+
+
 
 ## 🙋‍♀️ 좀 더 구체적으로 가르쳐주세요!   
 1. 왼쪽 공간에서 블로그에 글을 쓰는 것처럼 README를 작성해주세요!   
