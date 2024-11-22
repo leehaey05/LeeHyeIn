@@ -27,14 +27,13 @@ GitHub에서 코딩과 창작의 즐거움을 함께 나누고 싶어요!
 
 
 ## 🛠️ project 🛠️   
-   
+- # 개인 프로젝트
+ㅇㄹㅇㄹㅇㄹㅇ
+
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHyeIn&show_icons=true&theme=radical)
-- # H1 Header   
-- ## H2 Header   
-- ### H3 Header   
-- #### H4 Header   
-- ##### H5 Header   
-- ###### H6 Header   
 
 <br>   
 
