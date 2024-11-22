@@ -1,7 +1,6 @@
 ## 🙌 Welcome to 혜인 git hube
 ![easyme](/assets/readme/cartoon.png)
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome to 혜인 git hube&fontSize=90" />
-
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=welcome%20render&fontSize=90" />
 
 
 
