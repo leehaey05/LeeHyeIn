@@ -6,12 +6,13 @@
 <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=3776AB" />  <img src="https://img.shields.io/badge/illustrator-20232a.svg?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
 
 ## 🌈 instagram & phone number 
-<a href="https://www.instagram.com/hyein_0217/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <details><summary>Phone Number
 </summary>
 
 *010-3141-2376*
 </details>
+<a href="https://www.instagram.com/hyein_0217/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+
 
 ## 🛠 project 🛠
 
