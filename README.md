@@ -8,7 +8,7 @@
 ## 🙋‍♀️ instagram & email & phone number 
 <a href="https://myaccount.google.com/personal-info?utm_source=OGB&utm_medium=app"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/hyein_0217/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-2. 👆 
+phone number
 
 ## 🛠 project 🛠
 
