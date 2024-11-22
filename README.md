@@ -1,5 +1,5 @@
 ## 🙌 Hello 🙌
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=welcome%20to%20혜인%20git%20hube&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=welcome%20to%20혜인%20Git%20Hub&fontSize=50" />
 
 ## 🌟introduce🌟
 안녕하세요! 이혜인입니다.
@@ -12,6 +12,9 @@
 
 GitHub에서 코딩과 창작의 즐거움을 함께 나누고 싶어요!
 
+### Image link
+![onealog](/assets/readme/easyme.png)   
+   
 
 ## 😀 Tech Stack 😀
 <img src="https://img.shields.io/badge/Adobe-20232a.svg?style=for-the-badge&logo=Adobe&logoColor=FF0000" />  <img src="https://img.shields.io/badge/photoshop-20232a.svg?style=for-the-badge&logo=adobephotoshop&logoColor=9999FF" />  <img src="https://img.shields.io/badge/premierepro-20232a.svg?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />  <img src="https://img.shields.io/badge/cplusplus-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C" />  
@@ -235,7 +238,7 @@ if __name__=='__main__':
 외계인이 좌우로 이동하며 점점 아래로 내려옵니다.
 
 외계인마다 다른 점수를 부여.
-
+ 
 ### 💣 폭탄
 외계인이 무작위로 폭탄을 투하하며 플레이어가 피해야 합니다.
 
@@ -248,6 +251,12 @@ if __name__=='__main__':
 언어: Python 3.x
 
 라이브러리: Pygame
+
+### Image link
+![onealog](![strip](https://github.com/user-attachments/assets/6fafaf73-3003-43c1-9c4a-3229fdfba001)
+)   
+   
+<br>
 
 ## ✨ 개발 동기
 Python 학습과 pygame 라이브러리 활용 능력을 높이기 위해 제작했습니다. 
