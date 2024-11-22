@@ -221,6 +221,7 @@ if __name__=='__main__':
 ```
 
 <br>   
+</details>```
 
 ## 🎮게임기능
 
@@ -262,92 +263,3 @@ Python 학습과 pygame 라이브러리 활용 능력을 높이기 위해 제작
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHyeIn&show_icons=true&theme=radical)
 
-<br>   
-
-## Text Style1
-- **진하게** (`Ctrl(Command) + B`)   
-- *기울이기* (`Ctrl(Command) + I`)   
-- <s>취소선</s> (`Ctrl(Command) + D`)   
-- <u>밑줄</u> (`Ctrl(Command) + U`)   
-
-<br>   
-   
-## Text Style2
-
->인용문   
-   
-<details><summary>접고 펴는 기능
-</summary>
-
-*Write here!*
-</details>
-
-- EASYME.md를 드래그하고 상단에 `Aa` 아이콘을 누르면? 👉 Easyme.md   
-- EASYME.md를 드래그하고 상단에 `A` 아이콘을 누르면? 👉 EASYME.MD   
-- EASYME.md를 드래그하고 상단에 `a` 아이콘을 누르면? 👉 easyme.md   
-   
-<br>   
-   
-## List   
-### Table of contents
-1. [title1](#write-title-here!)   
-2. [title2](#only-lowercase)   
-3. [title3](#use"-"instead-of-spacing-words)   
-4. [title4](#example)   
-    - [❓ EASYME.md가 뭐예요?](#-easymemd가-뭐예요)   
-    - [🛠 기능 엿보기](#-기능-엿보기)
-   
-### Unordered list   
-- unordered list1   
-- unordered list2   
-- unordered list3   
-- unordered list4   
-   
-### Ordered list   
-1. ordered list1   
-2. ordered list2   
-3. ordered list3   
-4. ordered list4   
-   
-<br>   
-   
-## Link   
-### General link
-- [🚗 Visit EASYME.md's Repo](https://github.com/EASYME-md/client)   
-- [🙋‍♂️ Visit ONE:A's Github](https://github.com/onealog)
-
-### Image link
-![onealog](/assets/readme/easyme.png)   
-   
-<br>   
-   
-## Code Block   
-### Code inline
-- `console.log('Hello EASYME.md!');`   
-   
-### Code block
-```js
-function makeDeveloper(name, language) {
-  if (name === 'ONE:A' && language === 'JavaScript') {
-    return 'perfect!';
-  }
-
-  return false;
-}
-
-makeDeveloper('ONE:A', 'JavaScript');
-```
-
-<br>   
-   
-## Table   
-
-
-| title1 | title2 | title3 |
-| --- | --- | --- |
-| 1 | 2 | 3 |
-| 4 | 5 | 6 |
-| 7 | 8 | 9 |
-
-
-<br>   
