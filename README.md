@@ -26,7 +26,8 @@ GitHub에서 코딩과 창작의 즐거움을 함께 나누고 싶어요!
 <a href="https://www.instagram.com/hyein_0217/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 
-## 🛠️ project 🛠️   
+# 🛠️ project 🛠️   
+
 우주 침략자 게임 (Space Invaders Game) 🚀
 소개
 이 프로젝트는 간단한 2D 우주 침략자 게임입니다. Python의 pygame 라이브러리를 활용하여 구현되었으며, 플레이어는 우주선을 조종해 외계인을 물리치고 점수를 획득하는 것을 목표로 합니다.
