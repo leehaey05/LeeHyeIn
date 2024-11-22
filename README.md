@@ -253,9 +253,8 @@ if __name__=='__main__':
 라이브러리: Pygame
 
 ### Image link
-![onealog](![strip](https://github.com/user-attachments/assets/6fafaf73-3003-43c1-9c4a-3229fdfba001)
-)   
-   
+![strip](https://github.com/user-attachments/assets/ce85bb6c-660e-4f29-88b1-88e080f062dd)
+ 
 <br>
 
 ## ✨ 개발 동기
