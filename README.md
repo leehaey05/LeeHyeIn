@@ -14,20 +14,16 @@
 <a href="https://www.instagram.com/hyein_0217/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 
-## 🛠 project 🛠
-
-1. [❓ EASYME.md가 뭐예요?  ](#-easymemd가-뭐예요)
-2. [🙋‍♀️ 좀 더 구체적으로 가르쳐주세요!](#-좀-더-구체적으로-가르쳐주세요)
-3. [🛠 기능 엿보기](#-기능-엿보기)
-    - [Header](#header)   
-    - [Text Style1](#text-style1)   
-    - [Text Stlye2](#text-style2)   
-    - [List](#list)      
-    - [Link](#link)   
-    - [Code Block](#code-block)   
-    - [Table](#table)   
+## 🛠️ project 🛠️   
    
-## Header
+## introduce
+안녕하세요! 이혜인입니다.
+ 🖌️ Art and Technology 전공자
+ 💻 관심 분야: 게임 개발, 3D 아트, 포토샵
+🎮 게임과 🎨 드로잉, 그리고 🐟 해산물을 좋아합니다.
+GitHub에서 코딩과 창작의 즐거움을 함께 나누고 싶어요!
+
+
 - # H1 Header   
 - ## H2 Header   
 - ### H3 Header   
