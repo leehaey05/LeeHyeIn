@@ -32,6 +32,7 @@ GitHub에서 코딩과 창작의 즐거움을 함께 나누고 싶어요!
 이 프로젝트는 간단한 2D 우주 침략자 게임입니다. Python의 pygame 라이브러리를 활용하여 구현되었으며, 플레이어는 우주선을 조종해 외계인을 물리치고 점수를 획득하는 것을 목표로 합니다.
 
 게임 기능
+
 ## Code Block   
 ### Code inline
 - `console.log('Hello EASYME.md!');`   
@@ -49,15 +50,17 @@ function makeDeveloper(name, language) {
 makeDeveloper('ONE:A', 'JavaScript');
 ```
 
-<br>   
-플레이어 컨트롤
+<br>  
 
+플레이어 컨트롤
 화살표 키로 우주선을 좌우로 이동.
 스페이스바를 눌러 빔 발사.
+
 적군(외계인) 행동
 
 외계인이 좌우로 이동하며 점점 아래로 내려옵니다.
 외계인마다 다른 점수를 부여.
+
 폭탄
 
 외계인이 무작위로 폭탄을 투하하며 플레이어가 피해야 합니다.
@@ -65,27 +68,11 @@ makeDeveloper('ONE:A', 'JavaScript');
 
 모든 외계인을 처치하면 "!!CLEAR!!" 메시지와 함께 승리.
 외계인이 화면 아래로 내려오거나 폭탄에 맞으면 "!!YOU DIED!!" 메시지와 함께 게임 종료.
+
 기술 스택
 언어: Python 3.x
 라이브러리: Pygame
-설치 및 실행 방법
-Python 및 pygame 라이브러리 설치:
-bash
-코드 복사
-pip install pygame
-프로젝트 클론:
-bash
-코드 복사
-git clone <저장소 URL>
-cd <프로젝트 폴더>
-게임 실행:
-bash
-코드 복사
-python space_invaders.py
-스크린샷
-플레이어와 외계인들의 초기 화면.
-빔 발사 및 폭탄 회피 모습.
-게임 클리어 및 실패 메시지.
+
 프로젝트 주요 코드
 Drawable 클래스: 게임 내 모든 객체(우주선, 외계인, 폭탄 등)의 기본 클래스입니다.
 Ship, Beam, Alien, Bomb 클래스를 상속받아 각 객체의 동작과 그래픽을 처리합니다.
