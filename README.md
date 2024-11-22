@@ -1,5 +1,8 @@
 ## 🙌 Welcome to 혜인 git hube
 ![easyme](/assets/readme/cartoon.png)   
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
+
 
 ##  Tech Stack
 <img src="https://img.shields.io/badge/Adobe-20232a.svg?style=for-the-badge&logo=Adobe&logoColor=FF0000" />  <img src="https://img.shields.io/badge/photoshop-20232a.svg?style=for-the-badge&logo=adobephotoshop&logoColor=9999FF" />  <img src="https://img.shields.io/badge/premierepro-20232a.svg?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />  <img src="https://img.shields.io/badge/cplusplus-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C" />  
