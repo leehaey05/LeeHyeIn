@@ -1,6 +1,17 @@
 ## 🙌 Hello 🙌
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=welcome%20to%20혜인%20git%20hube&fontSize=50" />
 
+## 🌟introduce🌟
+안녕하세요! 이혜인입니다.
+🖌️ Art and Technology 전공자
+
+💻 관심 분야: 게임 개발, 3D 아트, 포토샵
+
+🎮 게임과 🎨 드로잉, 그리고 🐟 해산물을 좋아합니다.
+
+GitHub에서 코딩과 창작의 즐거움을 함께 나누고 싶어요!
+
+
 ## 😀 Tech Stack 😀
 <img src="https://img.shields.io/badge/Adobe-20232a.svg?style=for-the-badge&logo=Adobe&logoColor=FF0000" />  <img src="https://img.shields.io/badge/photoshop-20232a.svg?style=for-the-badge&logo=adobephotoshop&logoColor=9999FF" />  <img src="https://img.shields.io/badge/premierepro-20232a.svg?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />  <img src="https://img.shields.io/badge/cplusplus-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C" />  
 <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=3776AB" />  <img src="https://img.shields.io/badge/illustrator-20232a.svg?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
@@ -16,16 +27,6 @@
 
 ## 🛠️ project 🛠️   
    
-## introduce
-안녕하세요! 이혜인입니다.
-🖌️ Art and Technology 전공자
-
-💻 관심 분야: 게임 개발, 3D 아트, 포토샵
-
-🎮 게임과 🎨 드로잉, 그리고 🐟 해산물을 좋아합니다.
-
-GitHub에서 코딩과 창작의 즐거움을 함께 나누고 싶어요!
-
 
 - # H1 Header   
 - ## H2 Header   
