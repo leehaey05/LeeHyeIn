@@ -218,8 +218,9 @@ def main():
 
 if __name__=='__main__':
     main()
-</details>
+```
 
+<br>   
 
 ## 🎮게임기능
 
