@@ -3,6 +3,7 @@
 
 ## 🌟introduce🌟
 안녕하세요! 이혜인입니다.
+
 🖌️ Art and Technology 전공자
 
 💻 관심 분야: 게임 개발, 3D 아트, 포토샵
