@@ -27,7 +27,7 @@ GitHub에서 코딩과 창작의 즐거움을 함께 나누고 싶어요!
 
 ## 🛠️ project 🛠️   
    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHeInanuraghazra&show_icons=true&theme=radical)
 - # H1 Header   
 - ## H2 Header   
 - ### H3 Header   
