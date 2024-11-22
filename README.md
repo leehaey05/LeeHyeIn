@@ -10,11 +10,8 @@
 
 🎮 게임과 🎨 드로잉, 그리고 🐟 해산물을 좋아합니다.
 
-GitHub에서 코딩과 창작의 즐거움을 함께 나누고 싶어요!
+GitHub에서 창작의 즐거움을 함께 나누고 싶어요!
 
-### Image link
-![onealog](/assets/readme/easyme.png)   
-   
 
 ## 😀 Tech Stack 😀
 <img src="https://img.shields.io/badge/Adobe-20232a.svg?style=for-the-badge&logo=Adobe&logoColor=FF0000" />  <img src="https://img.shields.io/badge/photoshop-20232a.svg?style=for-the-badge&logo=adobephotoshop&logoColor=9999FF" />  <img src="https://img.shields.io/badge/premierepro-20232a.svg?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />  <img src="https://img.shields.io/badge/cplusplus-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C" />  
