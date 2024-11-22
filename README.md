@@ -11,6 +11,7 @@
 </summary>
 
 *010-3141-2376*
+</details>
 
 ## 🛠 project 🛠
 
